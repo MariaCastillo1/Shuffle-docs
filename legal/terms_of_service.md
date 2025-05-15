@@ -155,7 +155,7 @@ Each Party (Shuffle and the Customer) shall be liable for any damage caused to t
 
 6. No Waiver. Neither party will be deemed to have waived any of its rights under this Agreement by lapse of time or by any statement or representation other than by an authorized representative in an explicit written waiver. No waiver of a breach of this Agreement will constitute a waiver of any other breach of this Agreement.
 
-7. Choice of Law & Jurisdiction: This Agreement will be governed solely by the internal laws of the Kingdom of Norway, without reference to: (a) any conflicts of law principle that would apply the substantive laws of another jurisdiction to the parties’ rights or duties; (b) the 1980 United Nations Convention on Contracts for the International Sale of Goods; or (c) other international laws. The parties consent to the personal and exclusive jurisdiction of the federal and state courts of the County of San Francisco, California.
+7. Choice of Law & Jurisdiction: In the event of any dispute, controversy, or claim arising out of or relating to this contract, or the breach, termination, or invalidity thereof, the parties agree to first attempt to resolve the dispute amicably through mediation. The mediation shall be conducted in accordance with the rules of The American Arbitration Association. If the dispute is not resolved within 30 days from the commencement of mediation, either party may initiate binding arbitration.
 
 8. Conflicts. In the event of any conflict between this Agreement and any Shuffle policy posted online, including without limitation the AUP or Privacy Policy, the terms of this Agreement will govern.
 
